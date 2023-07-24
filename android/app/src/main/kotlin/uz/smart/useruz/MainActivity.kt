@@ -1,4 +1,4 @@
-package uz.smart.useruz
+package uz.smart.useruz.fastlane
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 
