@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "uz.smart.useruz.fastlane"
+        applicationId "uz.smart.useruz"
         minSdkVersion 21
         targetSdkVersion 33
         multiDexEnabled true
